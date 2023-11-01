@@ -1,6 +1,6 @@
 # KodLabbet
 
-![KodLabbet Logo](https://github.com/KodLabbet/KodLabbet/blob/main/Invisible.png?raw=true)
+![KodLabbet Logo](https://github.com/KodLabbet/KodLabbet/blob/main/Invisible.png?raw=true){ width=50% }
 
 ## Mission
 
